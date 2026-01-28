@@ -1,0 +1,121 @@
+London: 33
+England: 18
+America: 10
+France: 6
+Eyford: 6
+China: 5
+India: 4
+Boscombe Valley: 3
+Florida: 3
+Europe: 3
+Savannah: 3
+California: 3
+Streatham: 3
+U.S.A.: 2
+Encyclopædia Britannica: 2
+Underground: 2
+Scotland: 2
+Scarlet: 2
+Australia: 2
+Victoria: 2
+Bristol: 2
+Ballarat: 2
+Major Prendergast: 2
+Horsham: 2
+Georgia: 2
+South: 2
+Atlantic: 2
+morocco: 2
+Covent Garden: 2
+Berkshire: 2
+San Francisco: 2
+Frisco: 2
+Pa.: 2
+Holmes: 2
+Philadelphia: 2
+Rucastle: 2
+Lebanon: 1
+Pennsylvania: 1
+Londoners: 1
+Abbots: 1
+Strand: 1
+west.: 1
+the City and Suburban Bank: 1
+Kensington: 1
+Oxford: 1
+Cornwall: 1
+Holland: 1
+Marseilles: 1
+Auckland: 1
+New Zealand: 1
+Leadenhall
+Street: 1
+the St. Pancras
+Hotel: 1
+Andover: 1
+The Hague: 1
+Horace: 1
+Afghanistan: 1
+Hatherley: 1
+the Boscombe Valley: 1
+n’t: 1
+Rotterdam: 1
+Melbourne: 1
+Uffa: 1
+Jackson: 1
+Sussex: 1
+States: 1
+North: 1
+East London: 1
+Dundee: 1
+Tennessee: 1
+Louisiana: 1
+Carolinas: 1
+United States: 1
+the
+Union: 1
+Texas: 1
+D.D.: 1
+Capital: 1
+Middlesex: 1
+Neville: 1
+Chesterfield: 1
+the
+City: 1
+Swandam
+Lane: 1
+St. James’s Gazette: 1
+the Amoy River: 1
+crisply: 1
+Holborn: 1
+Brixton: 1
+geese: 1
+Pentonville: 1
+Kilburn: 1
+Crewe: 1
+Reading: 1
+lodgings: 1
+Greenwich: 1
+Esq: 1
+Cal.: 1
+Great Britain: 1
+Petersfield: 1
+Pacific: 1
+Hyde Park: 1
+Aberdeen: 1
+Munich: 1
+8_s: 1
+the Arabian Nights: 1
+Rockies: 1
+Montana: 1
+Arizona: 1
+New Mexico: 1
+Paris: 1
+the City of London: 1
+the West End: 1
+Wooden: 1
+china: 1
+Nova Scotia: 1
+Hampshire: 1
+Southampton: 1
+Southerton: 1
